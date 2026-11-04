@@ -1,0 +1,52 @@
+﻿record_type,date,issue_key,issue_type,issue_status,summary,trigger_date,hours,existing_hours,proposed_hours,final_hours,remaining_hours_to_8,status,description,approval_status,execution_result,exception
+daily,2026-10-01,,,,,,,2,1,3,5,Proposed,,,,
+daily,2026-10-02,,,,,,,0,0,0,8,No confirmed work,,,,
+daily,2026-10-05,,,,,,,0,3,3,5,Proposed,,,,
+daily,2026-10-06,,,,,,,0,0,0,8,No confirmed work,,,,
+daily,2026-10-07,,,,,,,0,7,7,1,Proposed,,,,
+daily,2026-10-08,,,,,,,0,7,7,1,Proposed,,,,
+daily,2026-10-09,,,,,,,0,8,8,0,Proposed,,,,
+daily,2026-10-12,,,,,,,0,7,7,1,Proposed,,,,
+daily,2026-10-13,,,,,,,0,5,5,3,Proposed,,,,
+daily,2026-10-14,,,,,,,0,0,0,8,No confirmed work,,,,
+daily,2026-10-15,,,,,,,0,2,2,6,Proposed,,,,
+daily,2026-10-16,,,,,,,0,0,0,8,No confirmed work,,,,
+daily,2026-10-19,,,,,,,0,2,2,6,Proposed,,,,
+daily,2026-10-20,,,,,,,0,6,6,2,Proposed,,,,
+daily,2026-10-21,,,,,,,0,7,7,1,Proposed,,,,
+daily,2026-10-22,,,,,,,0,6,6,2,Proposed,,,,
+daily,2026-10-23,,,,,,,2,0,2,6,Partially logged,,,,
+existing_worklog,2026-10-01,MSPC-537,Sub-task,,,,2,,,,,Existing; preserved,,,,
+existing_worklog,2026-10-23,MSPC-537,Sub-task,,,,2,,,,,Existing; preserved,,,,
+proposed_worklog,2026-10-19,MSPC-1136,Bug,Bug Fix,Cancelled Morning Huddle Remains Clickable in Calendar and Reopens the Cancel Morning Huddle Pop-up,2026-10-12,1,,,,,Proposed,Bug investigation and testing.,pending,not_submitted,
+proposed_worklog,2026-10-19,MSPC-1111,Bug,Bug Fix,Internal Morning Huddle Event Count Mismatch Between Vymo and mSpace,2026-10-06,1,,,,,Proposed,Bug investigation and testing.,pending,not_submitted,
+proposed_worklog,2026-10-01,MSPC-1093,Bug,Retest Failed,(UAT)Primary and secondary Branch Birthday is not visible for Axis and YBL,2026-10-01,1,,,,,Proposed,Bug investigation and testing.,pending,not_submitted,
+proposed_worklog,2026-10-21,MSPAC-36592,Bug,New.,Morning Huddle Issue,2026-10-21,1,,,,,Proposed,Bug investigation and testing.,pending,not_submitted,
+proposed_worklog,2026-10-13,MSPAC-35720,Bug,Closed,Login session click issue - 498 api error needs to come if two login at same time,2026-10-13,1,,,,,Proposed,Bug investigation and testing.,pending,not_submitted,
+proposed_worklog,2026-10-08,MSPAC-35716,Bug,Closed,Agency- Income Revenue tile should be visible at Menu section for advisor,2026-10-08,1,,,,,Proposed,Bug investigation and testing.,pending,not_submitted,
+proposed_worklog,2026-10-05,MSPAC-35697,Bug,Closed,Digital Agency -mRec > not able to redirect in IOS and Android,2026-10-05,1,,,,,Proposed,Bug investigation and testing.,pending,not_submitted,
+proposed_worklog,2026-10-05,MSPAC-35696,Bug,Closed,Digital Agency -Menu > Customer > Unable to load this Page is showing,2026-10-05,1,,,,,Proposed,Bug investigation and testing.,pending,not_submitted,
+proposed_worklog,2026-10-05,MSPAC-35693,Bug,Closed,Share content > Content is not showing,2026-10-05,1,,,,,Proposed,Bug investigation and testing.,pending,not_submitted,
+proposed_worklog,2026-10-12,MSPAC-35691,Bug,Closed,My Cash Tool > not working,2026-10-01,1,,,,,Proposed,Bug investigation and testing.,pending,not_submitted,
+proposed_worklog,2026-10-07,MSPAC-35689,Bug,Closed,mQuote > deeplink stuck in 50 %,2026-10-01,1,,,,,Proposed,Bug investigation and testing.,pending,not_submitted,
+proposed_worklog,2026-10-15,MSPAC-35720,Bug,Closed,Login session click issue - 498 api error needs to come if two login at same time,2026-10-15,2,,,,,Proposed,Bug retesting and closure verification.,pending,not_submitted,
+proposed_worklog,2026-10-13,MSPAC-35716,Bug,Closed,Agency- Income Revenue tile should be visible at Menu section for advisor,2026-10-12,2,,,,,Proposed,Bug retesting and closure verification.,pending,not_submitted,
+proposed_worklog,2026-10-09,MSPAC-35697,Bug,Closed,Digital Agency -mRec > not able to redirect in IOS and Android,2026-10-09,2,,,,,Proposed,Bug retesting and closure verification.,pending,not_submitted,
+proposed_worklog,2026-10-07,MSPAC-35696,Bug,Closed,Digital Agency -Menu > Customer > Unable to load this Page is showing,2026-10-09,2,,,,,Proposed,Bug retesting and closure verification.,pending,not_submitted,
+proposed_worklog,2026-10-07,MSPAC-35693,Bug,Closed,Share content > Content is not showing,2026-10-09,2,,,,,Proposed,Bug retesting and closure verification.,pending,not_submitted,
+proposed_worklog,2026-10-13,MSPAC-35691,Bug,Closed,My Cash Tool > not working,2026-10-12,2,,,,,Proposed,Bug retesting and closure verification.,pending,not_submitted,
+proposed_worklog,2026-10-07,MSPAC-35689,Bug,Closed,mQuote > deeplink stuck in 50 %,2026-10-07,2,,,,,Proposed,Bug retesting and closure verification.,pending,not_submitted,
+proposed_worklog,2026-10-08,MSPC-725,Story,Done,"Need to embedd the HTML URL for strapi, so that the admin can share .html files on Strapi as contest and sizzlrs to field",2026-10-12,6,,,,,Proposed,Story validation and associated testing.,pending,not_submitted,
+proposed_worklog,2026-10-09,MSPC-725,Story,Done,"Need to embedd the HTML URL for strapi, so that the admin can share .html files on Strapi as contest and sizzlrs to field",2026-10-12,6,,,,,Proposed,Story validation and associated testing.,pending,not_submitted,
+proposed_worklog,2026-10-12,MSPC-725,Story,Done,"Need to embedd the HTML URL for strapi, so that the admin can share .html files on Strapi as contest and sizzlrs to field",2026-10-12,6,,,,,Proposed,Story validation and associated testing.,pending,not_submitted,
+proposed_worklog,2026-10-20,MSPC-1052,Story,Done,Updating Product Brochures in mSpace for Axis,2026-10-22,6,,,,,Proposed,Story validation and associated testing.,pending,not_submitted,
+proposed_worklog,2026-10-21,MSPC-1052,Story,Done,Updating Product Brochures in mSpace for Axis,2026-10-22,6,,,,,Proposed,Story validation and associated testing.,pending,not_submitted,
+proposed_worklog,2026-10-22,MSPC-1052,Story,Done,Updating Product Brochures in mSpace for Axis,2026-10-22,6,,,,,Proposed,Story validation and associated testing.,pending,not_submitted,
+exception,,,,,,,,,,,,Needs review,,,,"Seven Bugs qualify as both created and closed during October (MSPAC-35720, MSPAC-35716, MSPAC-35697, MSPAC-35696, MSPAC-35693, MSPAC-35691, MSPAC-35689). Confirm that each 1-hour created-Bug entry and 2-hour closed-Bug entry represents distinct genuine work before approving."
+exception,,,,,,,,,,,,Needs review,,,,"You confirmed actual work on MSPAC-35697, MSPAC-35696, and MSPAC-35693; accurate activity descriptions and duration confirmation are still required."
+exception,,,,,,,,,,,,Needs review,,,,MSPC-1136 and MSPC-1111 were created earlier in October; your verified status transitions occurred on October 19. Their 1-hour proposals use October 19 rather than creation dates; confirm actual work and duration.
+exception,,,,,,,,,,,,Needs review,,,,"Alternative capacity/activity dates are proposed for MSPAC-35716, MSPAC-35696, MSPAC-35693, MSPAC-35691, MSPC-1136, MSPC-1111, MSPAC-35691 created allocation, and MSPAC-35689 created allocation. Confirm every changed date. Story days use the closure weekday and two preceding weekdays."
+exception,,,,,,,,,,,,Needs review,,,,The existing 2-hour MSPC-537 worklog on October 1 has no description. Preserve it; clarify the activity if needed.
+exception,,,,,,,,,,,,Needs review,,,,Sample time log was corrected after user confirmation: the Saturday record 529377 was removed and replaced with a verified 2-hour weekday entry 529378 on Friday 2026-10-23 at 22:46. Blank description preserved; remaining estimate stays 0m.
+exception,,,,,,,,,,,,Needs review,,,,"Sixteen weekdays have a remaining gap of 71 hours in total. Per your instruction, leave these gaps unresolved for now; do not fill them with arbitrary Jira worklogs."
+exception,,,,,,,,,,,,Needs review,,,,"All proposed descriptions are suggestions, not verified statements of work. Edit each one to reflect actual activity and set description_confirmed=true before submission."

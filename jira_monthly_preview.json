@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-25T00:52:00+05:30",
+  "jira_url": "https://axismaxlife.atlassian.net",
+  "api_version": "3",
+  "source": "authenticated Jira browser session; read-only",
+  "jira_account": {
+    "account_id": "712020:79893d31-ff61-4bac-a1d2-cc753e68adbb",
+    "display_name": "Saurabh Kumar (BP) (Gurugram -90C - Digital Distribution Delivery)"
+  },
+  "timezone": "Asia/Kolkata",
+  "reporting_period": {
+    "start": "2026-10-01",
+    "end": "2026-10-24"
+  },
+  "totals": {
+    "issues_reviewed": 14,
+    "eligible_created_bugs": 11,
+    "eligible_closed_bugs": 7,
+    "eligible_closed_stories": 2,
+    "existing_hours": 4,
+    "proposed_hours": 61,
+    "hours_approved": 0,
+    "hours_successfully_logged": 0,
+    "hours_requiring_clarification": 71,
+    "total_proposed_worklogs": 24,
+    "excluded_weekend_dates": 7,
+    "weekdays_fully_reconciled": 1,
+    "weekdays_with_gaps": 16
+  },
+  "existing_worklogs": [
+    {
+      "issue_key": "MSPC-537",
+      "issue_type": "Sub-task",
+      "date": "2026-10-01",
+      "hours": 2,
+      "description": "",
+      "duplicate_of_proposal": false
+    },
+    {
+      "issue_key": "MSPC-537",
+      "issue_type": "Sub-task",
+      "date": "2026-10-23",
+      "time": "22:46:54",
+      "hours": 2,
+      "description": "",
+      "worklog_id": "529378",
+      "remaining_estimate_after_log": "0m",
+      "date_is_weekend": false,
+      "duplicate_of_proposal": false
+    }
+  ],
+  "sample_worklog_submission": {
+    "issue_key": "MSPC-537",
+    "worklog_id": "529378",
+    "date_started": "2026-10-23T22:46:54+05:30",
+    "hours": 2,
+    "description": "",
+    "remaining_estimate_set_to": "0m",
+    "verification": "Confirmed by Jira worklog API. Original Saturday worklog 529377 was deleted after the verified Friday replacement was created.",
+    "correction_history": {
+      "removed_worklog_id": "529377",
+      "removed_date": "2026-10-24",
+      "replacement_worklog_id": "529378",
+      "replacement_date": "2026-10-23",
+      "replacement_authorized_by_user": true
+    }
+  },
+  "issues_reviewed": [
+    {"issue_key": "MSPC-1136", "issue_type": "Bug", "status": "Bug Fix", "created": "2026-10-12", "evidence": "Your status transition to Bug Fix on 2026-10-19."},
+    {"issue_key": "MSPC-1111", "issue_type": "Bug", "status": "Bug Fix", "created": "2026-10-06", "evidence": "Your status transition to Bug Fix on 2026-10-19."},
+    {"issue_key": "MSPC-1093", "issue_type": "Bug", "status": "Retest Failed", "created": "2026-10-01", "evidence": "You are reporter/creator; your status transition occurred on 2026-10-01."},
+    {"issue_key": "MSPC-1052", "issue_type": "Story", "status": "Done", "created": "2026-09-24", "resolved": "2026-10-22", "evidence": "Assigned to you; changelog confirms your Done/resolution transition on 2026-10-22."},
+    {"issue_key": "MSPC-725", "issue_type": "Story", "status": "Done", "created": "2026-07-27", "resolved": "2026-10-12", "evidence": "Assigned to you; changelog confirms your Done/resolution transition on 2026-10-12."},
+    {"issue_key": "MSPAC-36592", "issue_type": "Bug", "status": "New.", "created": "2026-10-21", "evidence": "You are reporter/creator."},
+    {"issue_key": "MSPAC-35720", "issue_type": "Bug", "status": "Closed", "created": "2026-10-13", "closed": "2026-10-15", "evidence": "You are reporter/assignee/creator; changelog confirms your Closed transition on 2026-10-15."},
+    {"issue_key": "MSPAC-35716", "issue_type": "Bug", "status": "Closed", "created": "2026-10-08", "closed": "2026-10-12", "evidence": "You are reporter/assignee/creator; changelog confirms your Closed transition on 2026-10-12."},
+    {"issue_key": "MSPAC-35697", "issue_type": "Bug", "status": "Closed", "created": "2026-10-05", "closed": "2026-10-09", "evidence": "Currently assigned to you; closure transition was by another account."},
+    {"issue_key": "MSPAC-35696", "issue_type": "Bug", "status": "Closed", "created": "2026-10-05", "closed": "2026-10-09", "evidence": "Currently assigned to you; closure transition was by another account."},
+    {"issue_key": "MSPAC-35693", "issue_type": "Bug", "status": "Closed", "created": "2026-10-05", "closed": "2026-10-09", "evidence": "Currently assigned to you; closure transition was by another account."},
+    {"issue_key": "MSPAC-35691", "issue_type": "Bug", "status": "Closed", "created": "2026-10-01", "closed": "2026-10-12", "evidence": "Changelog confirms your Closed transition on 2026-10-12."},
+    {"issue_key": "MSPAC-35689", "issue_type": "Bug", "status": "Closed", "created": "2026-10-01", "closed": "2026-10-07", "evidence": "Your status transition to Retest on 2026-10-07; closure transition was by another account."},
+    {"issue_key": "MSPC-537", "issue_type": "Sub-task", "status": "IN PROGRESS", "created": "2026-06-04", "evidence": "Contains your 2-hour worklog on 2026-10-01; included in daily capacity."}
+  ],
+  "daily_reconciliation": [
+    {"date": "2026-10-01", "existing_hours": 2, "proposed_hours": 1, "final_hours": 3, "remaining_hours_to_8": 5, "status": "Proposed"},
+    {"date": "2026-10-02", "existing_hours": 0, "proposed_hours": 0, "final_hours": 0, "remaining_hours_to_8": 8, "status": "No confirmed work"},
+    {"date": "2026-10-05", "existing_hours": 0, "proposed_hours": 3, "final_hours": 3, "remaining_hours_to_8": 5, "status": "Proposed"},
+    {"date": "2026-10-06", "existing_hours": 0, "proposed_hours": 0, "final_hours": 0, "remaining_hours_to_8": 8, "status": "No confirmed work"},
+    {"date": "2026-10-07", "existing_hours": 0, "proposed_hours": 7, "final_hours": 7, "remaining_hours_to_8": 1, "status": "Proposed"},
+    {"date": "2026-10-08", "existing_hours": 0, "proposed_hours": 7, "final_hours": 7, "remaining_hours_to_8": 1, "status": "Proposed"},
+    {"date": "2026-10-09", "existing_hours": 0, "proposed_hours": 8, "final_hours": 8, "remaining_hours_to_8": 0, "status": "Proposed"},
+    {"date": "2026-10-12", "existing_hours": 0, "proposed_hours": 7, "final_hours": 7, "remaining_hours_to_8": 1, "status": "Proposed"},
+    {"date": "2026-10-13", "existing_hours": 0, "proposed_hours": 5, "final_hours": 5, "remaining_hours_to_8": 3, "status": "Proposed"},
+    {"date": "2026-10-14", "existing_hours": 0, "proposed_hours": 0, "final_hours": 0, "remaining_hours_to_8": 8, "status": "No confirmed work"},
+    {"date": "2026-10-15", "existing_hours": 0, "proposed_hours": 2, "final_hours": 2, "remaining_hours_to_8": 6, "status": "Proposed"},
+    {"date": "2026-10-16", "existing_hours": 0, "proposed_hours": 0, "final_hours": 0, "remaining_hours_to_8": 8, "status": "No confirmed work"},
+    {"date": "2026-10-19", "existing_hours": 0, "proposed_hours": 2, "final_hours": 2, "remaining_hours_to_8": 6, "status": "Proposed"},
+    {"date": "2026-10-20", "existing_hours": 0, "proposed_hours": 6, "final_hours": 6, "remaining_hours_to_8": 2, "status": "Proposed"},
+    {"date": "2026-10-21", "existing_hours": 0, "proposed_hours": 7, "final_hours": 7, "remaining_hours_to_8": 1, "status": "Proposed"},
+    {"date": "2026-10-22", "existing_hours": 0, "proposed_hours": 6, "final_hours": 6, "remaining_hours_to_8": 2, "status": "Proposed"},
+    {"date": "2026-10-23", "existing_hours": 2, "proposed_hours": 0, "final_hours": 2, "remaining_hours_to_8": 6, "status": "Partially logged"}
+  ],
+  "proposed_worklogs": [
+    {"issue_key":"MSPC-1136","issue_type":"Bug","issue_status":"Bug Fix","summary":"Cancelled Morning Huddle Remains Clickable in Calendar and Reopens the Cancel Morning Huddle Pop-up","reason":"created bug","trigger_date":"2026-10-12","worklog_date":"2026-10-19","hours":1,"seconds":3600,"description":"Bug investigation and testing.","description_confirmed":false,"date_changed_from_preferred":true,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPC-1111","issue_type":"Bug","issue_status":"Bug Fix","summary":"Internal Morning Huddle Event Count Mismatch Between Vymo and mSpace","reason":"created bug","trigger_date":"2026-10-06","worklog_date":"2026-10-19","hours":1,"seconds":3600,"description":"Bug investigation and testing.","description_confirmed":false,"date_changed_from_preferred":true,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPC-1093","issue_type":"Bug","issue_status":"Retest Failed","summary":"(UAT)Primary and secondary Branch Birthday is not visible for Axis and YBL","reason":"created bug","trigger_date":"2026-10-01","worklog_date":"2026-10-01","hours":1,"seconds":3600,"description":"Bug investigation and testing.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-36592","issue_type":"Bug","issue_status":"New.","summary":"Morning Huddle Issue","reason":"created bug","trigger_date":"2026-10-21","worklog_date":"2026-10-21","hours":1,"seconds":3600,"description":"Bug investigation and testing.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35720","issue_type":"Bug","issue_status":"Closed","summary":"Login session click issue - 498 api error needs to come if two login at same time","reason":"created bug","trigger_date":"2026-10-13","worklog_date":"2026-10-13","hours":1,"seconds":3600,"description":"Bug investigation and testing.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35716","issue_type":"Bug","issue_status":"Closed","summary":"Agency- Income Revenue tile should be visible at Menu section for advisor","reason":"created bug","trigger_date":"2026-10-08","worklog_date":"2026-10-08","hours":1,"seconds":3600,"description":"Bug investigation and testing.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35697","issue_type":"Bug","issue_status":"Closed","summary":"Digital Agency -mRec > not able to redirect in IOS and Android","reason":"created bug","trigger_date":"2026-10-05","worklog_date":"2026-10-05","hours":1,"seconds":3600,"description":"Bug investigation and testing.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35696","issue_type":"Bug","issue_status":"Closed","summary":"Digital Agency -Menu > Customer > Unable to load this Page is showing","reason":"created bug","trigger_date":"2026-10-05","worklog_date":"2026-10-05","hours":1,"seconds":3600,"description":"Bug investigation and testing.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35693","issue_type":"Bug","issue_status":"Closed","summary":"Share content > Content is not showing","reason":"created bug","trigger_date":"2026-10-05","worklog_date":"2026-10-05","hours":1,"seconds":3600,"description":"Bug investigation and testing.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35691","issue_type":"Bug","issue_status":"Closed","summary":"My Cash Tool > not working","reason":"created bug","trigger_date":"2026-10-01","worklog_date":"2026-10-12","hours":1,"seconds":3600,"description":"Bug investigation and testing.","description_confirmed":false,"date_changed_from_preferred":true,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35689","issue_type":"Bug","issue_status":"Closed","summary":"mQuote > deeplink stuck in 50 %","reason":"created bug","trigger_date":"2026-10-01","worklog_date":"2026-10-07","hours":1,"seconds":3600,"description":"Bug investigation and testing.","description_confirmed":false,"date_changed_from_preferred":true,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35720","issue_type":"Bug","issue_status":"Closed","summary":"Login session click issue - 498 api error needs to come if two login at same time","reason":"closed bug","trigger_date":"2026-10-15","worklog_date":"2026-10-15","hours":2,"seconds":7200,"description":"Bug retesting and closure verification.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35716","issue_type":"Bug","issue_status":"Closed","summary":"Agency- Income Revenue tile should be visible at Menu section for advisor","reason":"closed bug","trigger_date":"2026-10-12","worklog_date":"2026-10-13","hours":2,"seconds":7200,"description":"Bug retesting and closure verification.","description_confirmed":false,"date_changed_from_preferred":true,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35697","issue_type":"Bug","issue_status":"Closed","summary":"Digital Agency -mRec > not able to redirect in IOS and Android","reason":"closed bug","trigger_date":"2026-10-09","worklog_date":"2026-10-09","hours":2,"seconds":7200,"description":"Bug retesting and closure verification.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35696","issue_type":"Bug","issue_status":"Closed","summary":"Digital Agency -Menu > Customer > Unable to load this Page is showing","reason":"closed bug","trigger_date":"2026-10-09","worklog_date":"2026-10-07","hours":2,"seconds":7200,"description":"Bug retesting and closure verification.","description_confirmed":false,"date_changed_from_preferred":true,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35693","issue_type":"Bug","issue_status":"Closed","summary":"Share content > Content is not showing","reason":"closed bug","trigger_date":"2026-10-09","worklog_date":"2026-10-07","hours":2,"seconds":7200,"description":"Bug retesting and closure verification.","description_confirmed":false,"date_changed_from_preferred":true,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35691","issue_type":"Bug","issue_status":"Closed","summary":"My Cash Tool > not working","reason":"closed bug","trigger_date":"2026-10-12","worklog_date":"2026-10-13","hours":2,"seconds":7200,"description":"Bug retesting and closure verification.","description_confirmed":false,"date_changed_from_preferred":true,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPAC-35689","issue_type":"Bug","issue_status":"Closed","summary":"mQuote > deeplink stuck in 50 %","reason":"closed bug","trigger_date":"2026-10-07","worklog_date":"2026-10-07","hours":2,"seconds":7200,"description":"Bug retesting and closure verification.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPC-725","issue_type":"Story","issue_status":"Done","summary":"Need to embedd the HTML URL for strapi, so that the admin can share .html files on Strapi as contest and sizzlrs to field","reason":"closed story","trigger_date":"2026-10-12","worklog_date":"2026-10-08","hours":6,"seconds":21600,"description":"Story validation and associated testing.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPC-725","issue_type":"Story","issue_status":"Done","summary":"Need to embedd the HTML URL for strapi, so that the admin can share .html files on Strapi as contest and sizzlrs to field","reason":"closed story","trigger_date":"2026-10-12","worklog_date":"2026-10-09","hours":6,"seconds":21600,"description":"Story validation and associated testing.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPC-725","issue_type":"Story","issue_status":"Done","summary":"Need to embedd the HTML URL for strapi, so that the admin can share .html files on Strapi as contest and sizzlrs to field","reason":"closed story","trigger_date":"2026-10-12","worklog_date":"2026-10-12","hours":6,"seconds":21600,"description":"Story validation and associated testing.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPC-1052","issue_type":"Story","issue_status":"Done","summary":"Updating Product Brochures in mSpace for Axis","reason":"closed story","trigger_date":"2026-10-22","worklog_date":"2026-10-20","hours":6,"seconds":21600,"description":"Story validation and associated testing.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPC-1052","issue_type":"Story","issue_status":"Done","summary":"Updating Product Brochures in mSpace for Axis","reason":"closed story","trigger_date":"2026-10-22","worklog_date":"2026-10-21","hours":6,"seconds":21600,"description":"Story validation and associated testing.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"},
+    {"issue_key":"MSPC-1052","issue_type":"Story","issue_status":"Done","summary":"Updating Product Brochures in mSpace for Axis","reason":"closed story","trigger_date":"2026-10-22","worklog_date":"2026-10-22","hours":6,"seconds":21600,"description":"Story validation and associated testing.","description_confirmed":false,"date_changed_from_preferred":false,"approval_status":"pending","worklog_id":null,"execution_result":"not_submitted"}
+  ],
+  "exceptions": [
+    "Seven Bugs qualify as both created and closed during October (MSPAC-35720, MSPAC-35716, MSPAC-35697, MSPAC-35696, MSPAC-35693, MSPAC-35691, MSPAC-35689). Confirm that each 1-hour created-Bug entry and 2-hour closed-Bug entry represents distinct genuine work before approving.",
+    "You confirmed actual work on MSPAC-35697, MSPAC-35696, and MSPAC-35693; accurate activity descriptions and duration confirmation are still required.",
+    "MSPC-1136 and MSPC-1111 were created earlier in October; your verified status transitions occurred on October 19. Their 1-hour proposals use October 19 rather than creation dates; confirm actual work and duration.",
+    "Alternative capacity/activity dates are proposed for MSPAC-35716, MSPAC-35696, MSPAC-35693, MSPAC-35691, MSPC-1136, MSPC-1111, MSPAC-35691 created allocation, and MSPAC-35689 created allocation. Confirm every changed date. Story days use the closure weekday and two preceding weekdays.",
+    "The existing 2-hour MSPC-537 worklog on October 1 has no description. Preserve it; clarify the activity if needed.",
+    "Sample time log was corrected after user confirmation: the Saturday record 529377 was removed and replaced with a verified 2-hour weekday entry 529378 on Friday 2026-10-23 at 22:46. Blank description preserved; remaining estimate stays 0m.",
+    "Sixteen weekdays have a remaining gap of 71 hours in total. Per your instruction, leave these gaps unresolved for now; do not fill them with arbitrary Jira worklogs.",
+    "All proposed descriptions are suggestions, not verified statements of work. Edit each one to reflect actual activity and set description_confirmed=true before submission."
+  ],
+  "exception_resolutions": [
+    {"exception":"Seven Bugs qualify as both created and closed during October (MSPAC-35720, MSPAC-35716, MSPAC-35697, MSPAC-35696, MSPAC-35693, MSPAC-35691, MSPAC-35689). Confirm that each 1-hour created-Bug entry and 2-hour closed-Bug entry represents distinct genuine work before approving.","resolution":""},
+    {"exception":"You confirmed actual work on MSPAC-35697, MSPAC-35696, and MSPAC-35693; accurate activity descriptions and duration confirmation are still required.","resolution":"User confirmed actual work on all three issues; proposed descriptions and durations remain pending review."},
+    {"exception":"MSPC-1136 and MSPC-1111 were created earlier in October; your verified status transitions occurred on October 19. Their 1-hour proposals use October 19 rather than creation dates; confirm actual work and duration.","resolution":""},
+    {"exception":"Alternative capacity/activity dates are proposed for MSPAC-35716, MSPAC-35696, MSPAC-35693, MSPAC-35691, MSPC-1136, MSPC-1111, MSPAC-35691 created allocation, and MSPAC-35689 created allocation. Confirm every changed date. Story days use the closure weekday and two preceding weekdays.","resolution":""},
+    {"exception":"The existing 2-hour MSPC-537 worklog on October 1 has no description. Preserve it; clarify the activity if needed.","resolution":""},
+    {"exception":"Sample time log was corrected after user confirmation: the Saturday record 529377 was removed and replaced with a verified 2-hour weekday entry 529378 on Friday 2026-10-23 at 22:46. Blank description preserved; remaining estimate stays 0m.","resolution":"User authorized correction and confirmed the actual work date was Friday 2026-10-23. Verified replacement worklog 529378; verified original worklog 529377 returns 404."},
+    {"exception":"Sixteen weekdays have a remaining gap of 71 hours in total. Per your instruction, leave these gaps unresolved for now; do not fill them with arbitrary Jira worklogs.","resolution":"Per user instruction, leave the gaps unresolved and do not add arbitrary Jira worklogs."},
+    {"exception":"All proposed descriptions are suggestions, not verified statements of work. Edit each one to reflect actual activity and set description_confirmed=true before submission.","resolution":""}
+  ],
+  "approval": {
+    "required": true,
+    "status": "pending",
+    "writes_performed": false,
+    "instructions": "Review all entries and exceptions. No Jira worklogs have been created or modified."
+  }
+}
